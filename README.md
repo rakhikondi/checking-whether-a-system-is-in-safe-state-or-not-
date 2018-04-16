@@ -1,0 +1,1 @@
+# checking-whether-a-system-is-in-safe-state-or-not-
